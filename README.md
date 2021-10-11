@@ -12,6 +12,8 @@
 <img align=center alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
+![Snake animation](https://github.com/joaovictorcamargo/joaovictorcamargo/blob/output/github-contribution-grid-snake.svg)
+
 Entre em contato:
 
 jc7155004@gmail.com
