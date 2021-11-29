@@ -4,13 +4,14 @@ I'm João Victor Camargo Silva 👨‍🚀. Currently I'm a mobile developer I a
 Currently my stack is:
 
 📱 Mobile applications for Android with React Native
+
 💻 Web front-end development with ReactJs
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-camargo-7700b3209/?originalSubdomain=br)
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorcamargo&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia
+### Technologies that I use daily
 <div style="display: inline_block"><br/>
 <p>
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
@@ -40,7 +41,7 @@ I also love UX Design 😍. I like to create beautiful interfaces to provide the
 
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. 💜
 
-Entre em contato:
+please contact:
 
 jc7155004@gmail.com
 
