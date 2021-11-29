@@ -1,4 +1,10 @@
-### Opaa! eu sou o João Victor 💪
+Hey there 👋
+I'm João Victor Camargo Silva 👨‍🚀. Currently I'm a mobile developer I also have experience with web development.
+
+Currently my stack is:
+
+📱 Mobile applications for Android with React Native
+💻 Web front-end development with ReactJs
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-camargo-7700b3209/?originalSubdomain=br)
 
@@ -28,7 +34,11 @@
    
 </div>
 
+I also love UX Design 😍. I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use Figma
 
+ I like project architecture, writing clean code and applying good practices.
+
+The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. 💜
 
 Entre em contato:
 
