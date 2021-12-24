@@ -24,6 +24,8 @@ Currently my stack is:
 &nbsp;
 <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
 &nbsp;  
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+&nbsp;   
 <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
 &nbsp;  
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
