@@ -42,6 +42,8 @@ Currently my stack is:
    
 </div>
 
+📝 I have certification: Oracle.
+
 I also love UX Design 😍. I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use Figma
 
  I like project architecture, writing clean code and applying good practices.
