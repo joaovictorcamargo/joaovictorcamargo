@@ -1,6 +1,8 @@
 Hey there 👋
 
-I'm João Victor Camargo Silva 👨‍🚀. Currently I'm a mobile developer I also have experience with web development.
+I'm João Victor Camargo Silva 👨‍🚀.
+
+Currently I'm a mobile developer I also have experience with web development.
 
 Currently my stack is:
 
