@@ -8,7 +8,7 @@ Currently my stack is:
 
 📱 Mobile applications for Android with React Native
 
-💻 Web front-end development with ReactJs, Chakra-ui
+💻 Web front-end development with ReactJs, Chakra-ui, Next.js
 
 🏻‍🚀 OSF-Oracle 
 
