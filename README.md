@@ -8,10 +8,9 @@ Currently my stack is:
 
 📱 Mobile applications for Android with React Native
 
-💻 Web front-end development with ReactJs
+💻 Web front-end development with ReactJs, Chakra-ui
 
-🏻‍🚀 
-
+🏻‍🚀 OSF-Oracle 
 
 💾 Database: Firebase (Cloud Firestore/Real Time), SQL Server, MySQL, WatermelonDB
 
