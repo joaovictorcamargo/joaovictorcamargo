@@ -10,6 +10,7 @@ Currently my stack is:
 
 💻 Web front-end development with ReactJs
 
+🏻‍🚀 
 
 
 💾 Database: Firebase (Cloud Firestore/Real Time), SQL Server, MySQL, WatermelonDB
