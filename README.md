@@ -38,8 +38,9 @@ Currently my stack is:
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
 <img src="https://bestofjs.org/logos/watermelon.svg" height="35px" />   
-</p> 
    💅
+</p> 
+ 
 
 
    
