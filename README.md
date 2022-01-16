@@ -10,6 +10,8 @@ Currently my stack is:
 
 💻 Web front-end development with ReactJs
 
+
+
 💾 Database: Firebase (Cloud Firestore/Real Time), SQL Server, MySQL, WatermelonDB
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-camargo-7700b3209/?originalSubdomain=br)
@@ -37,6 +39,7 @@ Currently my stack is:
 &nbsp;
 <img src="https://bestofjs.org/logos/watermelon.svg" height="35px" />   
 </p> 
+   💅
 
 
    
