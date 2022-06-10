@@ -1,18 +1,13 @@
-Hey there 👋
+Hi, I'm João 
+68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966
+I’m a Software Developer. Currently I'm working as a Web and Mobile Developer at LightHouse. 🚀
 
-I'm João Victor Camargo Silva 👨‍🚀.
-
-Currently I'm a mobile developer I also have experience with web development.
-
-Currently my stack is:
-
-📱 Mobile applications for Android with React Native
-
-💻 Web front-end development with ReactJs, Chakra-ui, Next.js
-
-🏻‍🚀 OSF-Oracle 
-
-💾 Database: Firebase (Cloud Firestore/Real Time), SQL Server, MySQL, Postgres, WatermelonDB
+My current tools
+📲 Front-end Mobile with React Native
+🌎 Front-end Web with React
+📡 Back-end with Node.js
+🛠️ Typescript
+🧰 And more...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-camargo-7700b3209/?originalSubdomain=br)
 
