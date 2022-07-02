@@ -1,6 +1,6 @@
 Hi, I'm João 
 
-I’m a Software Developer. Currently I'm working as a Web and Mobile Developer at LightHouse. 🚀
+I’m a Software Developer. Currently I'm working as a Web and Mobile Developer at Globalsys. 🚀
 
 My current tools
 
