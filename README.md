@@ -1,6 +1,6 @@
 Hi, I'm João 
 
-I’m a Software Developer. Currently I'm working as a Web and Mobile Developer at Globalsys. 🚀
+I’m a Software Developer. Currently I'm working as a Web and Mobile Developer on a freelance project and at Globalsys. 🚀
 
 My current tools
 
