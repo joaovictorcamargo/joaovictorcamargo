@@ -7,24 +7,6 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 ====================================================================================
 -->
 
-### Hey!
-
-<br/>
-
-<a href="https://www.youtube.com/@devjunioralves">
-  <img align="left" alt="Junior's YouTube" width="26px" src="https://img.icons8.com/color/48/000000/youtube-squared.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/junior-alves-b66a10127">
-  <img align="left" alt="Junior's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
-</a>
-
-<a href="https://www.instagram.com/junior.alves__/">
-  <img align="left" alt="Junior's Instagram" width="26px"  src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
-</a>
-
-<br />
-<br />
 
 Hi, I'm João 
 
