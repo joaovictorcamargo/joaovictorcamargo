@@ -42,4 +42,11 @@ The only certainty I have is that learning is an endless road and I want to stay
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-camargo-7700b3209/?originalSubdomain=br)
 
+
+contact info:
+
+jc7155004@gmail.com
+
+📱+55(62) 98116-7144
