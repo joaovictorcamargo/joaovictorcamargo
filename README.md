@@ -10,7 +10,7 @@ Qualquer dúvida ou sugestão, crie uma issue por favor, assim todo mundo se aju
 
 Hi, I'm João 
 
-I’m a Software Developer. Currently I'm working as a Web and Mobile Developer at Inetum and at Globalsys. 🚀
+I’m a Software Developer. Currently I'm working as a Web Developer. 🚀
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
